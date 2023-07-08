@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Liked.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
